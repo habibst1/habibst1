@@ -1,6 +1,6 @@
 # Hey there! I'm Mohamed Habib BEN CHEIKH ALI 👋
 
-**Software Engineering Student | AI/Backend Developer**
+**Software Engineering Student | AI / Backend Developer**
 
 I'm passionate about using AI and full-stack development to build impactful and innovative solutions.
 
